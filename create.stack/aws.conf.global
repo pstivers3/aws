@@ -1,5 +1,5 @@
 # Configuration variables for aws automation 
-# Place variables in this file if they reach across all environments
+# Place variables in this file if they reach across all stacks 
 
 # Account ID
 ACCOUNT_ID = '<12 digit account number>'
