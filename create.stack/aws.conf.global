@@ -1,0 +1,10 @@
+# Configuration variables for aws automation 
+# Place variables in this file if they reach across all environments
+
+# Account ID
+ACCOUNT_ID = '232637486912'
+
+# locations
+VPC_ID = 'vpc-c170b7a4'
+PRIMARY_SUBNET = 'subnet-e34ebf94'
+
