@@ -11,7 +11,7 @@
 # 1. utilize functions
 
 usage = "#{$0} <env> <server type>"
-example = "#{$0} performance rdx_agentless"
+example = "#{$0} performance my_app"
 
 env = ARGV[0]
 help_state = ARGV[0]
