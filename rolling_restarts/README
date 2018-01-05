@@ -1,0 +1,4 @@
+Crontab entry
+
+# rolling restart of my_app servers in production 
+# 0 * * * * $HOME/bin/rolling_restart_servers_wrapper.sh production my_app >> $HOME/log/rolling-restart-my-app.log 2>&1
